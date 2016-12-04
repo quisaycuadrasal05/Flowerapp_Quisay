@@ -698,8 +698,7 @@ Bouquet<span class="required"></span></span>
               <img src="${r[i].boqpic}">
               <span class="card-title">${r[i].boquet}</span>
             </div>
-            <div class="card-content">
-                       <h2>${r[i].view1}</h2>
+            <div class="card-content">                
                 <p>${r[i].detail}</p>
                
             </div>
