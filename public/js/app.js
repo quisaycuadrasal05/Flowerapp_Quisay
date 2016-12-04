@@ -15,7 +15,7 @@ class App{
           },
             {
             "image":"img/cover3.jpg",
-            "name":"Purchase Boquets",
+            "name":"Purchase Bouquets",
           },
             {
             "image":"img/cover4.jpg",
