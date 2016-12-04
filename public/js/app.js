@@ -143,7 +143,7 @@ class App{
        {
         "flowerid": 9,
         "boquet1": "Tarnation Bouquet",
-        "value1": " Colorful boquet made of different kinds of roses. Tarnation is one of the recent flower exported world wide",
+        "value1": " Colorful bouquet made of different kinds of roses. Tarnation is one of the recent flower exported world wide",
         "detail1": "We've created this larger version of one of our most popular Tarnation bouquets for a bit of extra cheer this Christmas! Continue the tradition of family and friends with this seasonal favorite. To allow these beautiful flowers to last much longer, they are shipped fresh, budding, and ready to bloom.",
         "boqpic1": "img/boquet2.jpg",
       },
